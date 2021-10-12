@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gatsby-plugin-web-font-loader": "^1.0.4"
+  }
+}
